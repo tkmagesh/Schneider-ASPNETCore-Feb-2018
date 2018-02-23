@@ -1,0 +1,11 @@
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/InventoryApp/InventoryApp/obj/Debug/netcoreapp2.0/InventoryApp.csprojResolveAssemblyReference.cache
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/InventoryApp/InventoryApp/obj/Debug/netcoreapp2.0/InventoryApp.csproj.CoreCompileInputs.cache
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/InventoryApp/InventoryApp/obj/Debug/netcoreapp2.0/InventoryApp.AssemblyInfoInputs.cache
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/InventoryApp/InventoryApp/obj/Debug/netcoreapp2.0/InventoryApp.AssemblyInfo.cs
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/InventoryApp/InventoryApp/bin/Debug/netcoreapp2.0/InventoryApp.deps.json
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/InventoryApp/InventoryApp/bin/Debug/netcoreapp2.0/InventoryApp.runtimeconfig.json
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/InventoryApp/InventoryApp/bin/Debug/netcoreapp2.0/InventoryApp.runtimeconfig.dev.json
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/InventoryApp/InventoryApp/bin/Debug/netcoreapp2.0/InventoryApp.dll
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/InventoryApp/InventoryApp/bin/Debug/netcoreapp2.0/InventoryApp.pdb
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/InventoryApp/InventoryApp/obj/Debug/netcoreapp2.0/InventoryApp.dll
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/InventoryApp/InventoryApp/obj/Debug/netcoreapp2.0/InventoryApp.pdb
