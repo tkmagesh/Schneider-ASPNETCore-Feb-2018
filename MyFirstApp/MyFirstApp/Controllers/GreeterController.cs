@@ -15,18 +15,20 @@ namespace MyFirstApp.Controllers
 
         private IDateTimeService dateTimeService;
 
+        /*
         public GreeterController(){
             this.dateTimeService = new DateTimeService();
         }
+        */
 
-        public GreeterController(IDateTimeService dateTimeService){
+        public GreeterController(IDateTimeService dateTimeService, IDummyService dummyService){
             this.dateTimeService = dateTimeService;
         }
         // GET: /<controller>/
         public ViewResult Greet()
         {
-            this.ViewBag.userDetails = new UserDetails();
-            return this.View();
+            var modelData = new UserDetails() { Message = "[Initial Message]" };
+            return this.View(modelData);
         }
 
         // POST: /<controller>/
@@ -35,12 +37,10 @@ namespace MyFirstApp.Controllers
         {
             //this.ViewData["message"] = "Hi " + FirstName + " " + LastName + ", Have a nice day!";
             userDetails.Greet();
-            this.ViewBag.userDetails = userDetails;
-            this.ViewBag.Message = userDetails.Message;
             if (this.dateTimeService.GetCurrent().Hour < 12){
-                return this.View("MorningMessage");
+                return this.View("MorningMessage", userDetails);
             } else {
-                return this.View("EveningMessage");
+                return this.View("EveningMessage", userDetails);
             }
         }
     }

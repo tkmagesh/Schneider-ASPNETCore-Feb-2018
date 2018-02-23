@@ -1,12 +1,6 @@
-﻿<Properties StartupConfiguration="{0A7F4A3A-5AD6-43FF-B98B-68E79B41F791}|Default">
+﻿<Properties StartupConfiguration="{267F560C-4F94-4D3A-8C13-13DBF0475D61}|Default">
   <MonoDevelop.Ide.ItemProperties.MyFirstAppTests PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="MyFirstAppTests/GreeterControllerTests.cs">
-    <Files>
-      <File FileName="MyFirstAppTests/GreeterControllerTests.cs" Line="7" Column="20" />
-      <File FileName="MyFirstApp/Controllers/GreeterController.cs" Line="16" Column="33" />
-      <File FileName="MyFirstApp/Services/IDateTimeService.cs" Line="6" Column="31" />
-      <File FileName="MyFirstApp/Services/DateTimeService.cs" Line="10" Column="34" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
