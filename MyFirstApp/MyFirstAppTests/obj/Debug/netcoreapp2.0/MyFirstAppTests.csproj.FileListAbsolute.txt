@@ -1,0 +1,16 @@
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/bin/Debug/netcoreapp2.0/MyFirstAppTests.deps.json
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/bin/Debug/netcoreapp2.0/MyFirstAppTests.runtimeconfig.json
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/bin/Debug/netcoreapp2.0/MyFirstAppTests.runtimeconfig.dev.json
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/bin/Debug/netcoreapp2.0/MyFirstAppTests.dll
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/bin/Debug/netcoreapp2.0/MyFirstAppTests.pdb
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/bin/Debug/netcoreapp2.0/MyFirstApp.dll
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/bin/Debug/netcoreapp2.0/MyFirstApp.pdb
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/obj/Debug/netcoreapp2.0/MyFirstAppTests.csprojResolveAssemblyReference.cache
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/obj/Debug/netcoreapp2.0/MyFirstAppTests.csproj.CoreCompileInputs.cache
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/obj/Debug/netcoreapp2.0/MyFirstAppTests.AssemblyInfoInputs.cache
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/obj/Debug/netcoreapp2.0/MyFirstAppTests.AssemblyInfo.cs
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/obj/Debug/netcoreapp2.0/MyFirstAppTests.dll
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstAppTests/obj/Debug/netcoreapp2.0/MyFirstAppTests.pdb

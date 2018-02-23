@@ -1,0 +1,10 @@
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstApp/bin/Debug/netcoreapp2.0/MyFirstApp.deps.json
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstApp/bin/Debug/netcoreapp2.0/MyFirstApp.runtimeconfig.json
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstApp/bin/Debug/netcoreapp2.0/MyFirstApp.runtimeconfig.dev.json
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstApp/bin/Debug/netcoreapp2.0/MyFirstApp.dll
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstApp/bin/Debug/netcoreapp2.0/MyFirstApp.pdb
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstApp/obj/Debug/netcoreapp2.0/MyFirstApp.csproj.CoreCompileInputs.cache
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstApp/obj/Debug/netcoreapp2.0/MyFirstApp.AssemblyInfoInputs.cache
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstApp/obj/Debug/netcoreapp2.0/MyFirstApp.AssemblyInfo.cs
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstApp/obj/Debug/netcoreapp2.0/MyFirstApp.dll
+/Users/tkmagesh/Documents/Training/Schneider-ASPNETCore-Feb-2018/MyFirstApp/MyFirstApp/obj/Debug/netcoreapp2.0/MyFirstApp.pdb

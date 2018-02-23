@@ -15,11 +15,11 @@ namespace MyFirstApp.Controllers
 
         private IDateTimeService dateTimeService;
 
-        GreeterController(){
+        public GreeterController(){
             this.dateTimeService = new DateTimeService();
         }
 
-        GreeterController(IDateTimeService dateTimeService){
+        public GreeterController(IDateTimeService dateTimeService){
             this.dateTimeService = dateTimeService;
         }
         // GET: /<controller>/
